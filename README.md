@@ -1,1 +1,2 @@
-Perkenalkan, nama saya Alexander Ganendra Bagaskara.
+# Perkenalkan, nama saya Alexander Ganendra Bagaskara :smile:
+Saya adalah seorang mahasiswa Informatika di UPN Veteran Yogyakarta. Saya memilih Informatika karena saya memiliki minat & bakat di bidang ini, dan saya mencoba untuk eksplor lebih jauh.
